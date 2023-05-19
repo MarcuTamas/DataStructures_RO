@@ -6,7 +6,7 @@
 
 ## Description:
 
-This repository contains Java implementations of different data structures, developed based on the data structures courses from the UBB, Postgraduate Training Program in Computer Science. The courses originally provided pseudocode implementations, which we have translated in Java and supplemented with additional information and problem-solving solutions.
+This repository contains Java implementations of different data structures, developed based on the data structures courses from the Universitatea „Babeș-Bolyai” of Cluj-Napoca, Postgraduate Training Program in Computer Science. The courses originally provided pseudocode implementations, which we have translated in Java and supplemented with additional information and problem-solving solutions.
 
 ## Course Highlights:
 The courses cover a wide range of topics related to data structures, including exercises and problem-solving implementations, interfaces and conditional operations, dynamic vector-based collections, dictionaries, lists, sets, as well as specific topics like hash tables, and trees.
