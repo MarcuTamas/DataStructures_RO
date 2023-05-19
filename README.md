@@ -2,7 +2,7 @@
 
 🔮 Explore my diagrams and Java implementations of various data structures, including interfaces, algorithm complexities, and error handling. Enhance your understanding of data structures and their practical application in software development. 
 
-- *Available resources in romanian for **beginner** programmers*.
+- *Available resources in romanian language for **beginner** programmers*.
 
 ## Description:
 
